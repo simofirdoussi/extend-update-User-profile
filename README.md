@@ -9,7 +9,7 @@
   <p align="center">
     Tutorial on how to upload files(images, pfd..) to your django application.
     <br />
-    <a href="https://www.thedjangoguy.com/"><strong>view tutorial »</strong></a>
+    <a href="https://www.thedjangoguy.com/post/extend-the-user-and-update-the-user-profile/"><strong>view tutorial »</strong></a>
     <br />
   </p>
 </p>
